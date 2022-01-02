@@ -1,4 +1,4 @@
-package com.plcoding.splashscreenandroid12.ui.theme
+package com.realityexpander.splashscreenandroid12.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

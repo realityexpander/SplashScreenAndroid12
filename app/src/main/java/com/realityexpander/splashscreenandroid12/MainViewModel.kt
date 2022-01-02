@@ -1,4 +1,4 @@
-package com.plcoding.splashscreenandroid12
+package com.realityexpander.splashscreenandroid12
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

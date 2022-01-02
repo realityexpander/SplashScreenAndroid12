@@ -1,4 +1,4 @@
-package com.plcoding.splashscreenandroid12
+package com.realityexpander.splashscreenandroid12
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

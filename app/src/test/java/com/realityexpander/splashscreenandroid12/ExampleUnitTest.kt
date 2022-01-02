@@ -1,4 +1,4 @@
-package com.plcoding.splashscreenandroid12
+package com.realityexpander.splashscreenandroid12
 
 import org.junit.Test
 
